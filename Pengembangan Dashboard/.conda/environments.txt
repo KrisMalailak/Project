@@ -1,0 +1,3 @@
+C:\Users\DELL\anaconda3
+C:\Users\DELL\anaconda3\envs\mynewvenv
+C:\Users\DELL\anaconda3\envs\main-ds

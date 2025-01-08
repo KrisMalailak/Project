@@ -1,0 +1,55 @@
+{
+    "mahasiswa": [
+      {
+        "nama": "Ahmad",
+        "kelas": "10",
+        "umur": 15
+      },
+      {
+        "nama": "Budi",
+        "kelas": "10",
+        "umur": 15
+      },
+      {
+        "nama": "Cindy",
+        "kelas": "11",
+        "umur": 16
+      },
+      {
+        "nama": "Diana",
+        "kelas": "11",
+        "umur": 16
+      },
+      {
+        "nama": "Eko",
+        "kelas": "12",
+        "umur": 17
+      },
+      {
+        "nama": "Fika",
+        "kelas": "12",
+        "umur": 17
+      },
+      {
+        "nama": "Gilang",
+        "kelas": "10",
+        "umur": 15
+      },
+      {
+        "nama": "Hana",
+        "kelas": "11",
+        "umur": 16
+      },
+      {
+        "nama": "Indra",
+        "kelas": "12",
+        "umur": 17
+      },
+      {
+        "nama": "Joni",
+        "kelas": "10",
+        "umur": 15
+      }
+    ]
+  }
+  
